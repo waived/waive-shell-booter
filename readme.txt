@@ -36,6 +36,13 @@ Known bugs:
 Please use responsibly.
 
 
+////////// UPDATE 11.20.2K24 //////////
+The executable binary, once compiled for this project, yields a Windows Defender antiviral
+detection known as 'Trojan:Script/Wacatac.B!ml'  Obviously, the source code will confirm that
+this is a false positive. The Wacatac malware family (although partially legit) is a known family
+for its false positives. This program is guaranteed safe <3
+
+
 
 
 
